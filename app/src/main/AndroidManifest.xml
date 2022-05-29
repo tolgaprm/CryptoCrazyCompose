@@ -4,6 +4,7 @@
     package="com.prmto.cryptocrazycompose">
 
     <application
+        android:name=".CryptoApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
